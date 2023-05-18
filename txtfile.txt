@@ -1,1 +1,6 @@
 hello helvatica
+
+git init initialise git 
+git status shows status
+git commit commit the changes
+git diff gives the difference bw previous commit and now 
