@@ -19,3 +19,14 @@ git merge "branch name " to merge with master
 
 git delete -d "branch name " to delete branch 
 
+
+
+
+
+github.com
+
+create new repo follow instruction 
+git push origin "branch"
+
+origin rfer to main server on github
+master is your local one
