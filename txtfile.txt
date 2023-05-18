@@ -13,3 +13,9 @@ branching in git ...
 git branch used to check all branch 
 
 git checkout -b "name of branch without quote "
+
+git checkout branch to change branch
+git merge "branch name " to merge with master 
+
+git delete -d "branch name " to delete branch 
+
