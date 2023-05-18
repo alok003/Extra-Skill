@@ -8,3 +8,7 @@ git diff gives the difference bw previous commit and now
 git log shows all logs 
 git checkout "id of log " gives that log details 
 
+branching in git ...
+
+git branch used to check all branch 
+
