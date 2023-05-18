@@ -12,3 +12,4 @@ branching in git ...
 
 git branch used to check all branch 
 
+git checkout -b "name of branch without quote "
